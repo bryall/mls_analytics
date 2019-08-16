@@ -1,0 +1,3 @@
+[submodule "sportsreference"]
+	path = sportsreference
+	url = https://bryall@github.com/bryall/sportsreference.git
